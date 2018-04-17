@@ -1,5 +1,7 @@
 # CrorC
 
+Inspired by TopGear, the goal of this project is to share stories of cars and to create the most exotic vehicle platform.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
 ## Development server
