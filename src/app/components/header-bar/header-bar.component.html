@@ -1,10 +1,12 @@
 <div class="header">
-	<div class="logo-container">CrorC</div>
+	<div class="logo-container">
+		<a [routerLink]="['home']">CrorC</a>
+	</div>
 	<nav class="nav-menu">
 		<ul>
-			<li>New Car</li>
-			<li>情怀</li>
-			<li>New Tech</li>
+			<li><a [routerLink]="['newcar']">New Car</a></li>
+			<li><a [routerLink]="['feelings']">情怀</a></li>
+			<li><a [routerLink]="['newtech']">New Tech</a></li>
 			<li>手绘</li>
 		</ul>
 	</nav>
