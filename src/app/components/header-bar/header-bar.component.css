@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Kalam');
+
+.header{
+	height: 64px;
+	line-height: 64px;
+	width: 100%;
+	background: #4c2ea0;
+	color: white;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.container{
+	margin: 0px;
+}
+
+.logo-container{
+	font-family: 'Kalam', cursive;
+	display: inline-block;
+	font-size: 24px;
+	padding-left: 24px;
+	padding-right: 24px;
+}
+
+nav{
+	display: inline-block;
+}
+
+nav ul, .loginBar{
+	padding-left: 0px;
+	margin-bottom: 0px;
+}
+
+.nav-menu li{
+	padding-left: 24px;
+	padding-right: 24px;
+}
+
+.header ul>li{
+	list-style: none;
+	display: inline-block;
+}
+
+.loginBar{
+	float: right;
+	padding-right: 24px;
+	padding-left: 24px;
+}
+
+.loginBar li{
+	padding-left: 12px;
+	padding-right: 12pxs;
+}
